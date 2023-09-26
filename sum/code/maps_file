@@ -1,0 +1,41 @@
+5597a346a000-5597a3499000 r--p 00000000 08:10 1241                       /usr/bin/bash
+5597a3499000-5597a3578000 r-xp 0002f000 08:10 1241                       /usr/bin/bash
+5597a3578000-5597a35b2000 r--p 0010e000 08:10 1241                       /usr/bin/bash
+5597a35b3000-5597a35b7000 r--p 00148000 08:10 1241                       /usr/bin/bash
+5597a35b7000-5597a35c0000 rw-p 0014c000 08:10 1241                       /usr/bin/bash
+5597a35c0000-5597a35cb000 rw-p 00000000 00:00 0 
+5597a5372000-5597a5520000 rw-p 00000000 00:00 0                          [heap]
+7f006b7a9000-7f006b800000 r--p 00000000 08:10 2331                       /usr/lib/locale/C.utf8/LC_CTYPE
+7f006b800000-7f006b801000 r--p 00000000 08:10 2338                       /usr/lib/locale/C.utf8/LC_NUMERIC
+7f006b801000-7f006b802000 r--p 00000000 08:10 2341                       /usr/lib/locale/C.utf8/LC_TIME
+7f006b802000-7f006b803000 r--p 00000000 08:10 2330                       /usr/lib/locale/C.utf8/LC_COLLATE
+7f006b803000-7f006b804000 r--p 00000000 08:10 2336                       /usr/lib/locale/C.utf8/LC_MONETARY
+7f006b804000-7f006b80b000 r--s 00000000 08:10 6259                       /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+7f006b80b000-7f006b80e000 rw-p 00000000 00:00 0 
+7f006b80e000-7f006b836000 r--p 00000000 08:10 6488                       /usr/lib/x86_64-linux-gnu/libc.so.6
+7f006b836000-7f006b9cb000 r-xp 00028000 08:10 6488                       /usr/lib/x86_64-linux-gnu/libc.so.6
+7f006b9cb000-7f006ba23000 r--p 001bd000 08:10 6488                       /usr/lib/x86_64-linux-gnu/libc.so.6
+7f006ba23000-7f006ba27000 r--p 00214000 08:10 6488                       /usr/lib/x86_64-linux-gnu/libc.so.6
+7f006ba27000-7f006ba29000 rw-p 00218000 08:10 6488                       /usr/lib/x86_64-linux-gnu/libc.so.6
+7f006ba29000-7f006ba36000 rw-p 00000000 00:00 0 
+7f006ba36000-7f006ba44000 r--p 00000000 08:10 6805                       /usr/lib/x86_64-linux-gnu/libtinfo.so.6.3
+7f006ba44000-7f006ba55000 r-xp 0000e000 08:10 6805                       /usr/lib/x86_64-linux-gnu/libtinfo.so.6.3
+7f006ba55000-7f006ba63000 r--p 0001f000 08:10 6805                       /usr/lib/x86_64-linux-gnu/libtinfo.so.6.3
+7f006ba63000-7f006ba67000 r--p 0002c000 08:10 6805                       /usr/lib/x86_64-linux-gnu/libtinfo.so.6.3
+7f006ba67000-7f006ba68000 rw-p 00030000 08:10 6805                       /usr/lib/x86_64-linux-gnu/libtinfo.so.6.3
+7f006ba68000-7f006ba69000 r--p 00000000 08:10 2335                       /usr/lib/locale/C.utf8/LC_MESSAGES/SYS_LC_MESSAGES
+7f006ba69000-7f006ba6a000 r--p 00000000 08:10 2339                       /usr/lib/locale/C.utf8/LC_PAPER
+7f006ba6a000-7f006ba6b000 r--p 00000000 08:10 2337                       /usr/lib/locale/C.utf8/LC_NAME
+7f006ba6b000-7f006ba6c000 r--p 00000000 08:10 2329                       /usr/lib/locale/C.utf8/LC_ADDRESS
+7f006ba6c000-7f006ba6d000 r--p 00000000 08:10 2340                       /usr/lib/locale/C.utf8/LC_TELEPHONE
+7f006ba6d000-7f006ba6e000 r--p 00000000 08:10 2333                       /usr/lib/locale/C.utf8/LC_MEASUREMENT
+7f006ba6e000-7f006ba70000 rw-p 00000000 00:00 0 
+7f006ba70000-7f006ba72000 r--p 00000000 08:10 6292                       /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7f006ba72000-7f006ba9c000 r-xp 00002000 08:10 6292                       /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7f006ba9c000-7f006baa7000 r--p 0002c000 08:10 6292                       /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7f006baa7000-7f006baa8000 r--p 00000000 08:10 2332                       /usr/lib/locale/C.utf8/LC_IDENTIFICATION
+7f006baa8000-7f006baaa000 r--p 00037000 08:10 6292                       /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7f006baaa000-7f006baac000 rw-p 00039000 08:10 6292                       /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffeaf36c000-7ffeaf38d000 rw-p 00000000 00:00 0                          [stack]
+7ffeaf3c3000-7ffeaf3c7000 r--p 00000000 00:00 0                          [vvar]
+7ffeaf3c7000-7ffeaf3c8000 r-xp 00000000 00:00 0                          [vdso]
