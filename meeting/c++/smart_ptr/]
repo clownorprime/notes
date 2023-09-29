@@ -1,0 +1,26 @@
+#include <iostream>
+#include <memory>
+
+using namespace std;
+
+class Example 
+{
+    public:
+        Example() {
+            cout << "example constructor" << endl;
+        }
+        void print() { cout << "hello" << endl; }
+        ~Example() {
+            cout << "example destructor" << endl;
+        }
+};
+
+int main() {
+    auto_ptr<Example> e0(new Example());
+    auto_ptr<Example> e1;
+    cout << e.get() << endl;
+    auto temp = e.release();
+    temp->print();
+    delete temp;
+    cout << temp << endl;
+}

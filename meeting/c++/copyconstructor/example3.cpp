@@ -10,8 +10,6 @@ class Example {
             this->data = data;
             this->p = new int(2);
         }
-        Example(Example &e) {
-        }
         ~Example() {
             delete p;
         }

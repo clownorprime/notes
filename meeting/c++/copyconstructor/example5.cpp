@@ -1,5 +1,6 @@
 #include <iostream>
 
+using namespace std;
 class Example {
     public:
         Example() {
@@ -8,10 +9,16 @@ class Example {
         }
         Example(int data) {
             this->data = data;
-            this->p = new int(2);
+            this->p = new int(3);
         }
         Example(Example &e) {
+            //类内的对象能够直接访问其私有成员
+            //这并不违背面向对象的封装特性
+            this->data = e.data;
+            p = e.p;
+            e.p = NULL;
         }
+        void print() { cout << "hello" << endl; }
         ~Example() {
             delete p;
         }
@@ -24,5 +31,6 @@ int main()
 {
     Example e(2);
     Example e2(e);
+    e.print();
 }
         
